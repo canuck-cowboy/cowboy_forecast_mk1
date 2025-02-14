@@ -3,7 +3,6 @@
 Welcome to **Iron Forecast**, a sleek and simple weather app that fetches real-time weather data based on your city. No frills—just the essentials to keep you updated.
 
 ### Screenshots – Because Seeing is Believing
-![image](https://github.com/user-attachments/assets/9489138f-0c58-479c-97bb-5bf4c01784d7)
 ![image](https://github.com/user-attachments/assets/0393066d-0569-4ab5-867d-8a71d117ef90)
 ![image](https://github.com/user-attachments/assets/05c9c336-97c5-4263-9d84-737b444d6d64)
 
