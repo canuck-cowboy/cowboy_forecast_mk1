@@ -36,10 +36,11 @@ def _fetch_weather():
             By assigning the image to icon_label.image, the label itself holds a reference, preventing Python from deleting
             it
             """
-            icon_label.image = img
-
     except:
-        weather_label.configure(text='Invalid City')                # consider changing the color later
+        weather_label.configure(text='Invalid City')
+        country_label.configure(text='')  # Clear country label
+        description_label.configure(text='')  # Clear description
+        icon_label.configure(image=None)  # Remove previous icon
 
 
 def get_unit():
